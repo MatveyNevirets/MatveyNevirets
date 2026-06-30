@@ -64,15 +64,6 @@ I am a results-driven Flutter Engineer with a track record of building scalable 
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=MatveyNevirets&show_icons=true&theme=radical&hide_border=true" alt="Matvey's Stats" height="180px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatveyNevirets&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180px" />
-</p>
-
----
-
 ### 📫 Let's Connect
 
 - **LinkedIn:** [linkedin.com/in/matvey-nevirets](https://www.linkedin.com/in/YOUR_LINKEDIN_ID)
