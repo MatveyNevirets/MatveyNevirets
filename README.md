@@ -76,7 +76,7 @@ I am a results-driven Flutter Engineer with a track record of building scalable 
 ### 📫 Let's Connect
 
 - **LinkedIn:** [linkedin.com/in/matvey-nevirets](https://www.linkedin.com/in/YOUR_LINKEDIN_ID)
-- **Telegram:** [@YOUR_TELEGRAM_HANDLE](https://t.me/MatveyNevir)
+- **Telegram:** [@MatveyNevir](https://t.me/MatveyNevir)
 - **Email:** [matvey.works@gmail.com](mailto:matvey.works@gmail.com)
 
 *"Engineering high-quality software products with a focus on stability, performance, and user experience."*
